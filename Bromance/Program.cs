@@ -14,6 +14,7 @@ namespace Bromance
             //Dino is here
             //Dennis IS here
             //Mee Too :D
+            Console.WriteLine("Hallå alla Scrum Masters!");
         }
     }
 }
